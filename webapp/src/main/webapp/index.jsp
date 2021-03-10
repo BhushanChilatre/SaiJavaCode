@@ -1,5 +1,5 @@
-<h1> Hello Dear Students !!, Welcome to DevOps Project-2 !! </h1>
-<h2> By Mr.Sai from Saidemy </h2>
-<h2> It's time to start the DevOps Project-2!! Get ready!!!</h2>
-<h1> This is called End to End CI CD Pipeline !! </h1>
-<h1> Hello all How are you, Now you guys are perferc in Ansible !! </h1>
+<h1> Hello Dear Trupti !! </h1>
+<h2> Hello dear Mishti !! Welcome to new world </h2>
+<h2> We are waiting for you baby!!!</h2>
+<h1> This is fully atomation project !! </h1>
+<h1> Now Bhushan is perfect in Devops projects !! </h1>
